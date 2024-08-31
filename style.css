@@ -1,0 +1,42 @@
+.highlight{
+
+
+
+  background-color: orange;
+}
+
+
+body{
+
+
+
+  text-align: center;
+}
+
+
+.button{
+
+
+  color: white;
+  background-color: red;
+  width: 75px;
+  height: 35px;
+  border-radius: 20px;
+  border: none;
+  display: inline;
+}
+
+
+.button:active{
+
+
+  background-color: rgb(255, 80, 80);
+}
+
+
+.outputContain{
+
+
+  display: flex;
+  flex-direction: row;
+}
